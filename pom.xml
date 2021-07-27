@@ -15,7 +15,7 @@
 	<description>Testing project for api test automation</description>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<maven.compiler.release>11</maven.compiler.release>
+<!--		<maven.compiler.release>11</maven.compiler.release>-->
 <!--		<java.version>11</java.version>-->
 		<junit.api.version>5.6.2</junit.api.version>
 		<junit.jupiter.version>RELEASE</junit.jupiter.version>
